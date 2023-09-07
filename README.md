@@ -1,4 +1,4 @@
 # genderstat-python
 
 Initiating the python version of genderstat package.This is going to be the
-python version of the R package under the same name.Initiating Edit. 
+python version of the R package under the same name.Initiating Edit.Changing. 
